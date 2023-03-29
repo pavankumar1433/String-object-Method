@@ -1,0 +1,44 @@
+welcome to the java program
+index of():4
+Last index of():22
+index of():-1
+index of():4
+index of():9
+search ():4
+slice ():ome to the java progra
+sub string():e
+sub str():welcome to the java program
+replace():welcome to the pavan program
+upper case():WELCOME TO THE JAVA PROGRAM
+lower case():welocome
+concat():welcome to the java programwelocOMe
+trim():welcome to the java program
+charat():o
+charcodeat():101
+w
+e
+l
+c
+o
+m
+e
+
+t
+o
+
+t
+h
+e
+
+j
+a
+v
+a
+
+p
+r
+o
+g
+r
+a
+m
